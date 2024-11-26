@@ -96,8 +96,8 @@ RBAC-Management-App/
 
 For any inquiries or support, please reach out:
 
-Email: vishnuviswan1700@gmail.com
+- Email: vishnuviswan1700@gmail.com
 
-GitHub: vishnu1700
+- GitHub: vishnu1700
 
    
