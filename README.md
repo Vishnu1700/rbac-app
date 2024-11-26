@@ -2,7 +2,7 @@
 
 A Role-Based Access Control (RBAC) Management App built with **React** and **Material-UI**, allowing administrators to manage users, roles, and permissions efficiently.
 
-## Features
+## 🛠 Features
 
 - **Login Functionality**:
   - Secure login with username and password.
@@ -16,7 +16,7 @@ A Role-Based Access Control (RBAC) Management App built with **React** and **Mat
 - **Responsiveness**:
   - Fully responsive UI, adapting to all screen sizes.
 
-## Technologies Used
+## 🚀 Technologies Used
 
 - **Frontend**:
   - [React](https://reactjs.org/): A JavaScript library for building user interfaces.
@@ -26,7 +26,7 @@ A Role-Based Access Control (RBAC) Management App built with **React** and **Mat
 - **Version Control**:
   - Git and GitHub for version control and collaboration.
 
-## Installation
+## 📦 Installation
 
 Follow these steps to run the project locally:
 
@@ -49,17 +49,23 @@ Follow these steps to run the project locally:
 
 ## Login
 - Use the following credentials to log in:
+  
         - Username: Admin
+
         - Password: Admin
+  
 ## User Management
+
 - Add, edit, or delete users.
 - Assign roles to users.
 - Toggle user status between Active and Inactive.
-##Role Management
+  
+## Role Management
+
 - Add new roles and assign permissions (Read, Write, Delete).
 - Edit existing roles or delete roles not currently in use.
 
-## File Structure
+## 📁 File Structure
 
 ```
 RBAC-Management-App/
@@ -74,7 +80,7 @@ RBAC-Management-App/
 ├── README.md                    # Project documentation
 ```
 
-## Screenshots
+## 📸 Screenshots
 
 ### Login Page
 
@@ -86,7 +92,7 @@ RBAC-Management-App/
 
 
 
-## Contact
+## 💬 Contact
 
 For any inquiries or support, please reach out:
 
