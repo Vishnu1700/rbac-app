@@ -51,7 +51,7 @@ Follow these steps to run the project locally:
 - Use the following credentials to log in:
         - Username: Admin
         - Password: Admin
-##User Management
+## User Management
 - Add, edit, or delete users.
 - Assign roles to users.
 - Toggle user status between Active and Inactive.
@@ -61,6 +61,7 @@ Follow these steps to run the project locally:
 
 ## File Structure
 
+```
 RBAC-Management-App/
 ├── src/
 │   ├── components/
@@ -71,39 +72,26 @@ RBAC-Management-App/
 │   ├── index.js                 # Entry point
 ├── package.json                 # Project dependencies
 ├── README.md                    # Project documentation
+```
 
-Screenshots
-Login Page
+## Screenshots
 
-User Management
+### Login Page
 
-Role Management
+![image](https://github.com/user-attachments/assets/c52f982a-d5b4-4734-a271-cfbd5a3bfd2b)
 
-Contributing
-Contributions are welcome! To contribute:
+### User Management & Role Management
 
-1. Fork this repository.
-   
-2. Create a new branch:
-       - git checkout -b feature/your-feature-name
-
-3.Make your changes and commit them:
-       - git commit -m "Add your feature description"
-
-4.Push your changes to your fork:
-       - git push origin feature/your-feature-name
-        
-5.Open a pull request.
+![image](https://github.com/user-attachments/assets/c736c6d3-920a-4fd3-951e-6312fb312318)
 
 
-License
-This project is licensed under the MIT License.
 
+## Contact
 
-Contact
 For any inquiries or support, please reach out:
 
 Email: vishnuviswan1700@gmail.com
+
 GitHub: vishnu1700
 
    
