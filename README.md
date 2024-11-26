@@ -48,16 +48,16 @@ Follow these steps to run the project locally:
 ## Usage
 
 ## Login
--Use the following credentials to log in:
-        -Username: Admin
-        -Password: Admin
+- Use the following credentials to log in:
+        - Username: Admin
+        - Password: Admin
 ##User Management
--Add, edit, or delete users.
--Assign roles to users.
--Toggle user status between Active and Inactive.
+- Add, edit, or delete users.
+- Assign roles to users.
+- Toggle user status between Active and Inactive.
 ##Role Management
--Add new roles and assign permissions (Read, Write, Delete).
--Edit existing roles or delete roles not currently in use.
+- Add new roles and assign permissions (Read, Write, Delete).
+- Edit existing roles or delete roles not currently in use.
 
 ## File Structure
 
@@ -85,13 +85,13 @@ Contributions are welcome! To contribute:
 1. Fork this repository.
    
 2. Create a new branch:
-        git checkout -b feature/your-feature-name
+       - git checkout -b feature/your-feature-name
 
 3.Make your changes and commit them:
-        git commit -m "Add your feature description"
+       - git commit -m "Add your feature description"
 
 4.Push your changes to your fork:
-        git push origin feature/your-feature-name
+       - git push origin feature/your-feature-name
         
 5.Open a pull request.
 
